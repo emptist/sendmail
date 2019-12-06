@@ -12,9 +12,7 @@ see https://github.com/emptist/sendmail
 
 ## 3. git clone it
 
-  ```bash
-        git clone <address copied from github>
-  ```
+`git clone <address copied from github>`
 
 
 ## 4. npm init
